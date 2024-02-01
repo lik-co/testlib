@@ -1,5 +1,5 @@
 package testlib
 
 type Test struct {
-	Name string
+	Name1 string
 }
